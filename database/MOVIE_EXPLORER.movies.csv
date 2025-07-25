@@ -1,0 +1,9 @@
+_id,name,cfbc,cast.actors[0]._id,cast.actors[1]._id,cast.actors[0].name,cast.actors[1].name,cast.directors[0]._id,cast.directors[0].name,genres[0]._id,genres[1]._id,genres[0].name,genres[1].name,release_year
+68812e3db43a33024caef467,Iron Man 1,U/A,6880dcb6b43a33024caef459,,Robert Downey Jr.,,6880dcb6b43a33024caef457,Alfonso Cuaron,6880d264b43a33024caef447,6880d264b43a33024caef448,action,sci-fi,2008
+68812ea6b43a33024caef468,Harry Potter and the Prisoner of Azkaban,U/A,6880dcb6b43a33024caef454,6880dcb6b43a33024caef458,Daniel Radcliffe,Emma Watson,6880dcb6b43a33024caef457,Alfonso Cuaron,6880d264b43a33024caef447,6880d264b43a33024caef44b,action,kids,2003
+,Harry Potter and the Goblet of Fire,U/A,6880dcb6b43a33024caef454,6880dcb6b43a33024caef458,Daniel Radcliffe,Emma Watson,6880dcb6b43a33024caef45c,David Yates,6880d264b43a33024caef447,6880d264b43a33024caef44b,action,kids,2005
+,Harry Potter and the Order of the Phoenix,U/A,6880dcb6b43a33024caef454,6880dcb6b43a33024caef458,Daniel Radcliffe,Emma Watson,6880dcb6b43a33024caef45c,David Yates,6880d264b43a33024caef447,6880d264b43a33024caef44b,action,kids,2007
+,Iron Man 2,U/A,6880dcb6b43a33024caef459,,Robert Downey Jr.,,6880dcb6b43a33024caef456,James Cameron,6880d264b43a33024caef447,,action,,
+,Wonder Woman,U/A,6880dcb6b43a33024caef452,6880dcb6b43a33024caef453,Gal Gadot,Chris Pratt,6880dcb6b43a33024caef45b,Patty Jenkins,6880d264b43a33024caef447,,action,,
+,Avengers:Ultron,U/A,6880dcb6b43a33024caef459,6880dcb6b43a33024caef453,Robert Downey Jr.,Chris Pratt,6880dcb6b43a33024caef456,James Cameron,6880d264b43a33024caef447,,action,,
+,Avengers:End Game,U/A,6880dcb6b43a33024caef459,6880dcb6b43a33024caef453,Robert Downey Jr.,Chris Pratt,6880dcb6b43a33024caef456,James Cameron,6880d264b43a33024caef447,,action,,
