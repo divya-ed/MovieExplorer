@@ -13,6 +13,8 @@ Install react with vite and typescript option.
 
 To run the react application : npm run dev 
 
+<img width="1424" height="557" alt="image" src="https://github.com/user-attachments/assets/42cdd3b9-d690-4a42-a2b6-8efb618e2dc4" />
+
 
 
 
