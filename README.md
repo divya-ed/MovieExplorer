@@ -1,5 +1,6 @@
 # MovieExplorer
-Application based on react and python (flask) backend to explore movie and artist information
+Application based on react and python (flask) backend to explore movie and artist information.
+
 Database requirement: MongoDB.
   Create database "MOVIE_EXPLORER" and create collections "movies","genres","artists". 
   From the database folder import the sample dataset into the respective collections in MongoDB.(MongoDB Compass can be used here)
